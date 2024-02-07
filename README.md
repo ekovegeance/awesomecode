@@ -1,2 +1,2 @@
-# awesomecode
-Awesome code setup for my Mac
+# Awesome Code
+Awesome coding setup on my Mac
