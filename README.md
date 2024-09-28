@@ -1,6 +1,6 @@
 # Awesome Code
 Awesome coding setup on my Mac
- ![vscode](https://github.com/ekovegeance/awesomecode/blob/main/vscode/ssvscode.png)
+ ![vscode](https://github.com/ekovegeance/awesomecode/blob/main/awesome.png)
 
 Design/Web Dev/ Mobile Dev
 
