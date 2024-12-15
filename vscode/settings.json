@@ -1,26 +1,25 @@
 {
-     /** ------------ Workbench Settings ------------ **/
-  "workbench.colorCustomizations": {
-    "inlineparameters.annotationBackground": "#282A3600",
-    "inlineparameters.annotationForeground": "#7b82af",
-    "scrollbar.shadow": "#24292e00",
-    "titleBar.border": "default",
-    "window.activeBorder": "#000000",
-    "sideBar.border": "#24292e00",
-    "scrollbarSlider.background": "#24292e00",
-  },
-  "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
-  "workbench.editorLargeFileConfirmation": 10024,
-  "workbench.layoutControl.enabled": false,
-  "workbench.tree.indent": 16,
-  
-  "workbench.editor.empty.hint": "hidden",
+    /** ------------ Workbench Settings ------------ **/
+    "workbench.colorCustomizations": {
+        "inlineparameters.annotationBackground": "#282A3600",
+        "inlineparameters.annotationForeground": "#7b82af",
+        "scrollbar.shadow": "#24292e00",
+        "titleBar.border": "default",
+        "window.activeBorder": "#000000",
+        "sideBar.border": "#24292e00",
+        "scrollbarSlider.background": "#24292e00",
+    },
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
+    "workbench.editorLargeFileConfirmation": 10024,
+    "workbench.layoutControl.enabled": false,
+    "workbench.tree.indent": 16,
+    "workbench.editor.empty.hint": "hidden",
 
-     /** ------------ Breadcrumbs Configurations ------------ **/
-  "breadcrumbs.enabled": false,
-  "breadcrumbs.symbolPath": "off",
-  "breadcrumbs.filePath": "on",
-  
+
+    /** ------------ Breadcrumbs Configurations ------------ **/
+    "breadcrumbs.enabled": false,
+    "breadcrumbs.symbolPath": "off",
+    "breadcrumbs.filePath": "on",
 
 
     /** ------------ Editor Settings ------------ **/
@@ -28,12 +27,16 @@
     "window.titleBarStyle": "custom",
     "window.nativeTabs": false,
     "editor.scrollbar.verticalScrollbarSize": 1,
+    "editor.lineHeight": 28,
+    "editor.fontSize": 11,
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
     "editor.inlineSuggest.enabled": true,
     "github.copilot.enable": {
         "*": true,
         "plaintext": false,
         "markdown": false,
         "scminput": false
+        
     },
     "tailwindCSS.emmetCompletions": true,
     "bladeFormatter.format.sortTailwindcssClasses": true,
@@ -85,12 +88,26 @@
     "scm.showOutgoingChanges": "always",
     "editor.suggest.showStatusBar": false,
     "window.commandCenter": false,
-    "editor.language.brackets": [
-
-    ],
+    "editor.language.brackets": [],
     "workbench.editor.showTabs": "single",
     "workbench.statusBar.visible": false,
-    "workbench.activityBar.location": "hidden"
-
-    
+    "workbench.activityBar.location": "hidden",
+    "workbench.settings.applyToAllProfiles": [],
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "indentRainbow.indicatorStyle": "light",
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "terminal.integrated.env.osx": {},
+    "console-ninja.featureSet": "Community",
+    "console-ninja.toolsToEnableSupportAutomaticallyFor": {
+        "live-server-extension": true,
+        "live-preview-extension": true
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
 }
