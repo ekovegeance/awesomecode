@@ -1,5 +1,7 @@
 # Awesome Coding Setup on My Mac
 
+![img](https://github.com/ekovegeance/awesomecode/blob/main/awesome.png)
+
 _A streamlined and developer-friendly configuration for macOS, designed to enhance productivity and coding efficiency._
 
 This project provides a comprehensive guide for setting up your terminal and VSCode on macOS with powerful tools, themes, and extensions. Whether you're a beginner or an experienced developer, this setup will make your coding experience seamless, aesthetic, and highly optimized for modern workflows.
