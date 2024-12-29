@@ -15,7 +15,7 @@ This project provides a comprehensive guide for setting up your terminal and VSC
 - Themes, plugins, and aliases to boost productivity.
 - Compatible with iTerm2, Warp, or the default Terminal.app.
 
-### Code editor [Cursor AI](https://www.cursor.com/)
+### Code editor vscode [Cursor AI](https://www.cursor.com/)
 - Preconfigured `settings.json` for a polished development environment.
 - Includes essential extensions for code formatting, Git, and language support.
 - Optimized settings for a clean and efficient coding experience.
