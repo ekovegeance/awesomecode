@@ -10,12 +10,12 @@ This project provides a comprehensive guide for setting up your terminal and VSC
 
 ## Features
 
-### Terminal
+### Terminal [Warp](https://www.warp.dev/)
 - Fully customizable with `.zshrc` configurations.
 - Themes, plugins, and aliases to boost productivity.
 - Compatible with iTerm2, Warp, or the default Terminal.app.
 
-### VSCode
+### Code editor [Cursor AI](https://www.cursor.com/)
 - Preconfigured `settings.json` for a polished development environment.
 - Includes essential extensions for code formatting, Git, and language support.
 - Optimized settings for a clean and efficient coding experience.
@@ -45,7 +45,7 @@ This project provides a comprehensive guide for setting up your terminal and VSC
 
 ---
 
-### For VSCode
+### Code editor
 1. Open VSCode.
 2. Navigate to `File > Preferences > Settings` (or press `Cmd + ,`).
 3. Click the **Open Settings (JSON)** icon in the top-right corner.
@@ -57,7 +57,7 @@ This project provides a comprehensive guide for setting up your terminal and VSC
 ## Recommended Tools
 - **Terminal Emulator:** [iTerm2](https://iterm2.com) or [Warp](https://www.warp.dev).
 - **Font:** [Fira Code](https://github.com/tonsky/FiraCode) or [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
-- **Plugins:** [Oh My Zsh](https://ohmyz.sh), [Starship](https://starship.rs), and others.
+- **Plugins:** [Oh My Zsh](https://ohmyz.sh).
 - **VSCode Extensions:**
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
