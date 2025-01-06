@@ -34,7 +34,7 @@
     // Editor Settings
     "editor.fontSize": 12,
     "editor.lineHeight": 28,
-    "editor.lineNumbers": "off",
+    "editor.lineNumbers": "on",
     "editor.minimap.size": "fit",
     "editor.language.brackets": [],
     "editor.minimap.enabled": false,
@@ -45,13 +45,13 @@
     "editor.scrollbar.vertical": "hidden",
     "editor.suggest.showStatusBar": false,
     "editor.minimap.showSlider": "always",
+    "editor.autoClosingBrackets": "always",
     "editor.renderControlCharacters": false,
     "editor.minimap.renderCharacters": false,
     "editor.scrollbar.verticalScrollbarSize": 1,
     "editor.semanticTokenColorCustomizations": {},
     "editor.codeActionWidget.includeNearbyQuickFixes": true,
     "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
-
     // extension settings
     "git.autofetch": true,
     "github.copilot.enable": {
@@ -90,4 +90,5 @@
     "[javascript]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
+    "files.autoSave": "onFocusChange",
 }
