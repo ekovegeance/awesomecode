@@ -1,4 +1,4 @@
-# Awesome Coding Setup on My Mac
+# Awesome Coding Setup
 
 ![img](https://github.com/ekovegeance/awesomecode/blob/main/awesome.png)
 
