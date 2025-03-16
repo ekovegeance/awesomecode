@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/ekovegeance/vngne-theme"
   },
-  "version": "0.0.3",
+  "version": "0.0.5",
   "publisher": "ekovegeance",
   "sponsor": {
     "url": "https://github.com/sponsors/ekovegeance"
@@ -33,8 +33,21 @@
       {
         "label": "vngne Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/vngne Theme-color-theme.json"
+        "path": "./themes/vngne-color-theme.json"
       }
-    ]
+    ],
+    "iconThemes": [
+      {
+        "id": "vngne-icon-theme",
+        "label": "vngne Icon Theme",
+        "path": "./icons/vngne-icon-theme.json"
+      }
+    ],
+    "configurationDefaults": {
+      "[vngne]": {
+        "workbench.colorTheme": "vngne Theme",
+        "workbench.iconTheme": "vngne Icon Theme"
+      }
+    }
   }
 }
