@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/ekovegeance/vngne-theme"
   },
-  "version": "0.0.5",
+  "version": "0.0.7",
   "publisher": "ekovegeance",
   "sponsor": {
     "url": "https://github.com/sponsors/ekovegeance"
@@ -47,7 +47,52 @@
       "[vngne]": {
         "workbench.colorTheme": "vngne Theme",
         "workbench.iconTheme": "vngne Icon Theme"
-      }
+      },
+      "workbench.tree.indent": 14,
+      "workbench.statusBar.visible": false,
+      "workbench.editor.showTabs": "single",
+      "workbench.sideBar.location": "right",
+      "workbench.editor.empty.hint": "hidden",
+      "workbench.layoutControl.enabled": false,
+      "workbench.iconTheme": "vngne-icon-theme",
+      "workbench.activityBar.location": "hidden",
+      "workbench.editorLargeFileConfirmation": 10024,
+      "workbench.editor.editorActionsLocation": "hidden",
+      "workbench.preferredLightColorTheme": "vngne Theme",
+
+      "window.zoomLevel": 0,
+      "window.nativeTabs": false,
+      "window.commandCenter": false,
+      "window.titleBarStyle": "custom",
+      "window.autoDetectColorScheme": true,
+
+      "breadcrumbs.enabled": true,
+      "breadcrumbs.filePath": "on",
+      "breadcrumbs.symbolPath": "off",
+
+      "editor.fontSize": 12,
+      "editor.lineHeight": 28,
+      "editor.lineNumbers": "off",
+      "editor.minimap.size": "fit",
+      "editor.detectIndentation": true,
+      "editor.minimap.enabled": false,
+      "editor.renderWhitespace": "none",
+      "editor.cursorBlinking": "smooth",
+      "editor.guides.indentation": false,
+      "editor.inlineSuggest.enabled": true,
+      "editor.scrollbar.vertical": "hidden",
+      "editor.suggest.showStatusBar": false,
+      "editor.minimap.showSlider": "always",
+      "editor.autoClosingBrackets": "always",
+      "editor.renderControlCharacters": false,
+      "editor.minimap.renderCharacters": false,
+      "editor.scrollbar.verticalScrollbarSize": 1,
+      "editor.semanticTokenColorCustomizations": {},
+      "editor.bracketPairColorization.enabled": true,
+      "editor.codeActionWidget.includeNearbyQuickFixes": true,
+      "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+
+      "files.autoSave": "onFocusChange"
     }
   }
 }
