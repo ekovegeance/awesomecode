@@ -1,6 +1,6 @@
 # vngne VS Code themes
 
-![vngne theme](https://github.com/ekovegeance/vngne-theme/blob/main/vngne-theme.png)
+![vngne theme](https://raw.githubusercontent.com/ekovegeance/vngne-theme/main/vngne-theme.png?token=GHSAT0AAAAAAC7D7UCQTUMH43VKXIGX4NA4Z6XE2GQ)
 ## Install
 
 1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=ekovegeance.vngne-theme).
