@@ -40,7 +40,7 @@
       {
         "id": "vngne-icon-theme",
         "label": "vngne Icon Theme",
-        "path": "./icons/vngne-icon-theme.json"
+        "path": "./fileicons/vngne-icon-theme.json"
       }
     ],
     "configurationDefaults": {

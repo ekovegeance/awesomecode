@@ -544,7 +544,7 @@
 		"name": "Variables",
 		"scope": "variable",
 		"settings": {
-		  "foreground": "#e06c75"
+		  "foreground": "#818cf8"
 		}
 	  },
 	  {
@@ -598,21 +598,21 @@
 		  "variable.function"
 		],
 		"settings": {
-		  "foreground": "#61afef"
+		  "foreground": "#3b82f6"
 		}
 	  },
 	  {
 		"name": "Classes",
 		"scope": "entity.name.type.namespace",
 		"settings": {
-		  "foreground": "#e5c07b"
+		  "foreground": "#38bdf8"
 		}
 	  },
 	  {
 		"name": "Classes",
 		"scope": "support.class, entity.name.type.class",
 		"settings": {
-		  "foreground": "#e5c07b"
+		  "foreground": "#38bdf8"
 		}
 	  },
 	  {
@@ -665,7 +665,7 @@
 		"name": "Methods",
 		"scope": "keyword.other.special-method",
 		"settings": {
-		  "foreground": "#61afef"
+		  "foreground": "#3b82f6"
 		}
 	  },
 	  {
@@ -735,7 +735,7 @@
 		"name": "Strings",
 		"scope": "string",
 		"settings": {
-		  "foreground": "#98c379"
+		  "foreground": "#f472b6"
 		}
 	  },
 	  {
@@ -1079,7 +1079,7 @@
 		"name": "use statement for other classes",
 		"scope": "support.other.namespace.use.php,support.other.namespace.use-as.php,support.other.namespace.php,entity.other.alias.php,meta.interface.php",
 		"settings": {
-		  "foreground": "#e5c07b"
+		  "foreground": "#38bdf8"
 		}
 	  },
 	  {
@@ -1572,7 +1572,7 @@
 		  "meta.method.groovy"
 		],
 		"settings": {
-		  "foreground": "#61afef"
+		  "foreground": "#3b82f6"
 		}
 	  },
 	  {
@@ -1687,7 +1687,7 @@
 		  "invalid.xi"
 		],
 		"settings": {
-		  "foreground": "#d4d4d4"
+		  "foreground": "#e879f9"
 		}
 	  },
 	  {
