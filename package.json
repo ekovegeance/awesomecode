@@ -2,12 +2,31 @@
   "name": "vngne-theme",
   "displayName": "vngne Theme",
   "description": "vngne theme for VS Code",
-  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ekovegeance/vngne-theme"
+  },
+  "version": "0.0.3",
+  "publisher": "ekovegeance",
+  "sponsor": {
+    "url": "https://github.com/sponsors/ekovegeance"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#18181b",
+    "theme": "dark"
+  },
   "engines": {
-    "vscode": "^1.98.0"
+    "vscode": "^1.43.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "vngne",
+    "dark"
   ],
   "contributes": {
     "themes": [
