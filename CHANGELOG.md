@@ -3,16 +3,11 @@
 All notable changes to this project will be documented here.
 
 
----
 
 ## [1.0.1] - 2025-03-17  
 ### ✨ Update Patch  
 - 🔧 **Fix bug**.  
 
-
----
-
----
 
 ## [1.0.0] - 2025-03-16  
 ### ✨ Initial Release  
@@ -23,7 +18,6 @@ All notable changes to this project will be documented here.
 - 🔧 **Fully compatible with external icon themes**.  
 
 
----
 
 ### 📝 Notes  
 If you encounter any bugs or have feature requests, please open an issue on [GitHub](https://github.com/ekovegeance/vngne-theme/issues). 🚀  
