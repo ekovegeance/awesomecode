@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/ekovegeance/awesomecode"
   },
-  "version": "2.0.1",
+  "version": "2.0.2",
   "publisher": "ekovegeance",
   "sponsor": {
     "url": "https://github.com/sponsors/ekovegeance"
@@ -25,7 +25,7 @@
   ],
   "keywords": [
     "theme",
-    "vngne",
+    "awesomecode",
     "dark"
   ],
   "contributes": {
@@ -34,20 +34,21 @@
         "id": "awesomecode-theme",
         "label": "Awesomecode Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/vngne-color-theme.json"
+        "path": "./themes/awesomecode-color-theme.json"
       }
     ],
     "iconThemes": [
       {
         "id": "awesomecode-icon-theme",
-        "label": "Awesome Icon Theme",
-        "path": "./fileicons/vngne-icon-theme.json"
+        "label": "Awesomecode Icon Theme",
+        "uiTheme": "vs-dark",
+        "path": "./fileicons/awesomecode-icon-theme.json"
       }
     ],
     "configurationDefaults": {
-      "[vngne]": {
-        "workbench.colorTheme": "vngne Theme",
-        "workbench.iconTheme": "vngne Icon Theme"
+      "[awesomecode]": {
+        "workbench.colorTheme": "Awesomecode Theme",
+        "workbench.iconTheme": "Awesomecode Icon Theme"
       },
       "workbench.tree.indent": 14,
       "workbench.statusBar.visible": false,
@@ -55,11 +56,11 @@
       "workbench.sideBar.location": "right",
       "workbench.editor.empty.hint": "hidden",
       "workbench.layoutControl.enabled": false,
-      "workbench.iconTheme": "vngne-icon-theme",
+      "workbench.iconTheme": "awesomecode-icon-theme",
       "workbench.activityBar.location": "hidden",
       "workbench.editorLargeFileConfirmation": 10024,
       "workbench.editor.editorActionsLocation": "hidden",
-      "workbench.preferredLightColorTheme": "vngne Theme",
+      "workbench.preferredLightColorTheme": "awesomecode-theme",
 
       "window.zoomLevel": 0,
       "window.nativeTabs": false,
