@@ -1,12 +1,12 @@
 {
-  "name": "vngne-theme",
-  "displayName": "vngne Theme",
-  "description": "vngne theme for VS Code",
+  "name": "awesomecode",
+  "displayName": "Awesomecode",
+  "description": "Awesomecode theme and code editor setup for VS Code",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ekovegeance/vngne-theme"
+    "url": "https://github.com/ekovegeance/awesomecode"
   },
-  "version": "1.0.2",
+  "version": "2.0.0",
   "publisher": "ekovegeance",
   "sponsor": {
     "url": "https://github.com/sponsors/ekovegeance"
@@ -31,15 +31,16 @@
   "contributes": {
     "themes": [
       {
-        "label": "vngne Theme",
+        "id": "awesomecode-theme",
+        "label": "Awesomecode Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/vngne-color-theme.json"
       }
     ],
     "iconThemes": [
       {
-        "id": "vngne-icon-theme",
-        "label": "vngne Icon Theme",
+        "id": "awesomecode-icon-theme",
+        "label": "Awesome Icon Theme",
         "path": "./fileicons/vngne-icon-theme.json"
       }
     ],

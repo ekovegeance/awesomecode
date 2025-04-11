@@ -2,17 +2,16 @@
 
 All notable changes to this project will be documented here.
 
-
+## [2.0.0] - 2025-04-11  
+### ✨ Update Major  
+- 🎨 **Rebrending**. vngne Theme to Awesomecode.
+- 🎭 **Update Logo**
+- 🖥 **Optimized UI**
+- 📝 **Update Docs** add VS Code shorcut for MacOS and Windows.
 
 ## [1.0.1] - 2025-03-17  
 ### ✨ Update Patch  
 - 🎨 **Update editor color**.  
-
-
-## [1.0.1] - 2025-03-17  
-### ✨ Update Patch  
-- 🔧 **Fix bug**.  
-
 
 ## [1.0.0] - 2025-03-16  
 ### ✨ Initial Release  
