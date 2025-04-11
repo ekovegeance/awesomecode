@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented here.
 
+## [2.0.3] - 2025-04-11  
+### ✨ Update Patch  
+- 🔧 **Fix package color theme**.  
+
 ## [2.0.2] - 2025-04-11  
 ### ✨ Update Patch  
 - 🔧 **Fix package typo**.  
