@@ -1,6 +1,10 @@
-# 📌 Changelog - vngne Theme
+# 📌 Changelog - Awesomecode
 
 All notable changes to this project will be documented here.
+
+## [2.0.1] - 2025-04-11  
+### ✨ Update Patch  
+- 🔧 **Changelog**.  
 
 ## [2.0.0] - 2025-04-11  
 ### ✨ Update Major  
@@ -24,4 +28,4 @@ All notable changes to this project will be documented here.
 
 
 ### 📝 Notes  
-If you encounter any bugs or have feature requests, please open an issue on [GitHub](https://github.com/ekovegeance/vngne-theme/issues). 🚀  
+If you encounter any bugs or have feature requests, please open an issue on [GitHub](https://github.com/ekovegeance/awesomecode/issues). 🚀  
