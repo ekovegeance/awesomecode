@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/ekovegeance/awesomecode"
   },
-  "version": "2.0.3",
+  "version": "2.0.4",
   "publisher": "ekovegeance",
   "sponsor": {
     "url": "https://github.com/sponsors/ekovegeance"
@@ -56,9 +56,9 @@
       "workbench.sideBar.location": "right",
       "workbench.editor.empty.hint": "hidden",
       "workbench.layoutControl.enabled": false,
-      "workbench.iconTheme": "awesomecode-icon-theme",
       "workbench.activityBar.location": "hidden",
       "workbench.editorLargeFileConfirmation": 10024,
+      "workbench.iconTheme": "awesomecode-icon-theme",
       "workbench.editor.editorActionsLocation": "hidden",
       "workbench.preferredLightColorTheme": "awesomecode-theme",
 
@@ -76,8 +76,8 @@
       "editor.lineHeight": 28,
       "editor.lineNumbers": "off",
       "editor.minimap.size": "fit",
-      "editor.detectIndentation": true,
       "editor.minimap.enabled": false,
+      "editor.detectIndentation": true,
       "editor.renderWhitespace": "none",
       "editor.cursorBlinking": "smooth",
       "editor.guides.indentation": false,
@@ -94,7 +94,21 @@
       "editor.codeActionWidget.includeNearbyQuickFixes": true,
       "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
 
-      "files.autoSave": "onFocusChange"
+      "files.autoSave": "onFocusChange",
+
+      "workbench.colorCustomizations": {
+        "activityBar.border": "#18181b",
+        "quickInput.background": "#18181b",
+        "activityBar.background": "#18181b",
+        "quickInputList.focusBackground": "#27272a",
+
+        "editorSuggestWidget.border": "#27272a",
+        "editorSuggestWidget.background": "#18181b",
+        "editorSuggestWidget.selectedBackground": "#27272a",
+
+        "editorHoverWidget.border": "#27272a",
+        "editorHoverWidget.background": "#18181b"
+      }
     }
   }
 }
