@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/ekovegeance/awesomecode"
   },
-  "version": "2.0.4",
+  "version": "2.0.5",
   "publisher": "ekovegeance",
   "sponsor": {
     "url": "https://github.com/sponsors/ekovegeance"
@@ -61,7 +61,6 @@
       "workbench.iconTheme": "awesomecode-icon-theme",
       "workbench.editor.editorActionsLocation": "hidden",
       "workbench.preferredLightColorTheme": "awesomecode-theme",
-
       "window.zoomLevel": 0,
       "window.nativeTabs": false,
       "window.commandCenter": false,
@@ -70,16 +69,17 @@
 
       "breadcrumbs.enabled": true,
       "breadcrumbs.filePath": "on",
-      "breadcrumbs.symbolPath": "off",
 
-      "editor.fontSize": 12,
-      "editor.lineHeight": 28,
+      "editor.fontSize": 13,
+      "editor.lineHeight": 38,
       "editor.lineNumbers": "off",
+      "breadcrumbs.symbolPath": "off",
       "editor.minimap.size": "fit",
       "editor.minimap.enabled": false,
       "editor.detectIndentation": true,
+      "editor.cursorStyle": "line-thin",
       "editor.renderWhitespace": "none",
-      "editor.cursorBlinking": "smooth",
+      "editor.cursorBlinking": "expand",
       "editor.guides.indentation": false,
       "editor.inlineSuggest.enabled": true,
       "editor.scrollbar.vertical": "hidden",
@@ -87,12 +87,13 @@
       "editor.minimap.showSlider": "always",
       "editor.autoClosingBrackets": "always",
       "editor.renderControlCharacters": false,
+      "editor.cursorSmoothCaretAnimation": "on",
       "editor.minimap.renderCharacters": false,
       "editor.scrollbar.verticalScrollbarSize": 1,
       "editor.semanticTokenColorCustomizations": {},
       "editor.bracketPairColorization.enabled": true,
       "editor.codeActionWidget.includeNearbyQuickFixes": true,
-      "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+      "editor.fontFamily": "IBM Plex Mono,Menlo, Monaco, 'Courier New', monospace",
 
       "files.autoSave": "onFocusChange",
 
@@ -101,11 +102,9 @@
         "quickInput.background": "#18181b",
         "activityBar.background": "#18181b",
         "quickInputList.focusBackground": "#27272a",
-
         "editorSuggestWidget.border": "#27272a",
         "editorSuggestWidget.background": "#18181b",
         "editorSuggestWidget.selectedBackground": "#27272a",
-
         "editorHoverWidget.border": "#27272a",
         "editorHoverWidget.background": "#18181b"
       }

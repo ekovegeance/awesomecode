@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented here.
 
+## [2.0.5] - 2025-04-20  
+### ✨ Update Patch  
+ - 🎨 **Update editor** Font size, Line height, Cursor style and blinking. 
+ - 🎭 **Update Font Family** Add default font family (IBM Plex Mono) Inspired by TailwindCSS 
+- 🖥 **Optimized UI**
+- 📝 **Update Docs** add VS Code recommended font family.
+
 ## [2.0.4] - 2025-04-11  
 ### ✨ Update Patch  
 - 🎨 **Enhance color settings**. activityBar, quickInput, editorSuggestWidget, editorHoverWidget.
