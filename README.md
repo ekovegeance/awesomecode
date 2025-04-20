@@ -15,6 +15,9 @@ Whether you're a beginner or an experienced developer, this setup will make your
 - [Monaco](https://font.download/font/monaco)
 - [Geist Mono](https://fonts.google.com/specimen/Geist+Mono)
 
+### 📝 Notes  
+If you encounter any bugs or have feature requests, please open an issue on [GitHub](https://github.com/ekovegeance/awesomecode/issues). 🚀  
+
 ## Override this theme
 
 To override this (or any other) theme in your personal config file, please follow the guide in the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation. This is handy for small tweaks to the theme without having to fork and maintain your own theme. 
